@@ -1,0 +1,13 @@
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.exe
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.deps.json
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.json
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.dev.json
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csprojAssemblyReference.cache
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfoInputs.cache
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfo.cs
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\Gerson Gil\source\repos\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.genruntimeconfig.cache
